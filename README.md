@@ -14,6 +14,11 @@ How to run the file:
 - Clone the repo and execute main.py.
 
 
+Zillow mocksite: 
+<img width="1201" alt="image" src="https://github.com/user-attachments/assets/d6741cb8-bcb0-43a5-baed-82641617535c">
+
+
+
 sample result:
 
 <img width="959" alt="image" src="https://github.com/user-attachments/assets/d4baf59a-2f24-4064-b681-72b0c7ffc3e3">
